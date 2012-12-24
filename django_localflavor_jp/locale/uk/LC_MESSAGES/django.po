@@ -1,0 +1,210 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Sergey Lysach <sergikoff88@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-jp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:40-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sergey Lysach <sergikoff88@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: forms.py:19
+msgid "Enter a postal code in the format XXXXXXX or XXX-XXXX."
+msgstr "Введіть поштовий індекс у форматі XXXXXXX or XXX-XXXX."
+
+#: jp_prefectures.py:4
+msgid "Hokkaido"
+msgstr "Хоккайдо"
+
+#: jp_prefectures.py:5
+msgid "Aomori"
+msgstr "Аоморі"
+
+#: jp_prefectures.py:6
+msgid "Iwate"
+msgstr "Івате"
+
+#: jp_prefectures.py:7
+msgid "Miyagi"
+msgstr "Міяґі"
+
+#: jp_prefectures.py:8
+msgid "Akita"
+msgstr "Акіта"
+
+#: jp_prefectures.py:9
+msgid "Yamagata"
+msgstr "Ямаґата"
+
+#: jp_prefectures.py:10
+msgid "Fukushima"
+msgstr "Фукусіма"
+
+#: jp_prefectures.py:11
+msgid "Ibaraki"
+msgstr "Ібаракі"
+
+#: jp_prefectures.py:12
+msgid "Tochigi"
+msgstr "Тотіґі"
+
+#: jp_prefectures.py:13
+msgid "Gunma"
+msgstr "Ґумма"
+
+#: jp_prefectures.py:14
+msgid "Saitama"
+msgstr "Сайтама"
+
+#: jp_prefectures.py:15
+msgid "Chiba"
+msgstr "Тіба"
+
+#: jp_prefectures.py:16
+msgid "Tokyo"
+msgstr "Токіо"
+
+#: jp_prefectures.py:17
+msgid "Kanagawa"
+msgstr "Канаґава"
+
+#: jp_prefectures.py:18
+msgid "Yamanashi"
+msgstr "Яманасі"
+
+#: jp_prefectures.py:19
+msgid "Nagano"
+msgstr "Наґано"
+
+#: jp_prefectures.py:20
+msgid "Niigata"
+msgstr "Ніїґата"
+
+#: jp_prefectures.py:21
+msgid "Toyama"
+msgstr "Тояма"
+
+#: jp_prefectures.py:22
+msgid "Ishikawa"
+msgstr "Ісікава"
+
+#: jp_prefectures.py:23
+msgid "Fukui"
+msgstr "Фукуї"
+
+#: jp_prefectures.py:24
+msgid "Gifu"
+msgstr "Ґіфу"
+
+#: jp_prefectures.py:25
+msgid "Shizuoka"
+msgstr "Сідзуока"
+
+#: jp_prefectures.py:26
+msgid "Aichi"
+msgstr "Аїті"
+
+#: jp_prefectures.py:27
+msgid "Mie"
+msgstr "Міє"
+
+#: jp_prefectures.py:28
+msgid "Shiga"
+msgstr "Сіґа"
+
+#: jp_prefectures.py:29
+msgid "Kyoto"
+msgstr "Кіото"
+
+#: jp_prefectures.py:30
+msgid "Osaka"
+msgstr "Осака"
+
+#: jp_prefectures.py:31
+msgid "Hyogo"
+msgstr "Хьоґо"
+
+#: jp_prefectures.py:32
+msgid "Nara"
+msgstr "Нара"
+
+#: jp_prefectures.py:33
+msgid "Wakayama"
+msgstr "Вакаяма"
+
+#: jp_prefectures.py:34
+msgid "Tottori"
+msgstr "Тотторі"
+
+#: jp_prefectures.py:35
+msgid "Shimane"
+msgstr "Сімане"
+
+#: jp_prefectures.py:36
+msgid "Okayama"
+msgstr "Окаяма"
+
+#: jp_prefectures.py:37
+msgid "Hiroshima"
+msgstr "Хіросіма"
+
+#: jp_prefectures.py:38
+msgid "Yamaguchi"
+msgstr "Ямаґуті"
+
+#: jp_prefectures.py:39
+msgid "Tokushima"
+msgstr "Токусіма"
+
+#: jp_prefectures.py:40
+msgid "Kagawa"
+msgstr "Каґава"
+
+#: jp_prefectures.py:41
+msgid "Ehime"
+msgstr "Ехіме"
+
+#: jp_prefectures.py:42
+msgid "Kochi"
+msgstr "Коті"
+
+#: jp_prefectures.py:43
+msgid "Fukuoka"
+msgstr "Фукуока"
+
+#: jp_prefectures.py:44
+msgid "Saga"
+msgstr "Саґа"
+
+#: jp_prefectures.py:45
+msgid "Nagasaki"
+msgstr "Наґасакі"
+
+#: jp_prefectures.py:46
+msgid "Kumamoto"
+msgstr "Кумамото"
+
+#: jp_prefectures.py:47
+msgid "Oita"
+msgstr "Оїта"
+
+#: jp_prefectures.py:48
+msgid "Miyazaki"
+msgstr "Міядзакі"
+
+#: jp_prefectures.py:49
+msgid "Kagoshima"
+msgstr "Каґосіма"
+
+#: jp_prefectures.py:50
+msgid "Okinawa"
+msgstr "Окінава"

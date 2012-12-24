@@ -1,0 +1,211 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Suteepat Damrongyingsupab <monkeycrew_topza@hotmail.com>, 2012.
+# Vichai Vongvorakul <vongvichai@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-jp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:40-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Suteepat Damrongyingsupab <monkeycrew_topza@hotmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: forms.py:19
+msgid "Enter a postal code in the format XXXXXXX or XXX-XXXX."
+msgstr "ใส่รหัสไปรษณีย์ในรูปของ XXXXXXX หรือ XXX-XXXX"
+
+#: jp_prefectures.py:4
+msgid "Hokkaido"
+msgstr "ฮอกไกโด"
+
+#: jp_prefectures.py:5
+msgid "Aomori"
+msgstr "อาโอโมริ"
+
+#: jp_prefectures.py:6
+msgid "Iwate"
+msgstr "อิวาเตะ"
+
+#: jp_prefectures.py:7
+msgid "Miyagi"
+msgstr "มิยากิ"
+
+#: jp_prefectures.py:8
+msgid "Akita"
+msgstr "อากิตะ"
+
+#: jp_prefectures.py:9
+msgid "Yamagata"
+msgstr "ยามากาตา"
+
+#: jp_prefectures.py:10
+msgid "Fukushima"
+msgstr "ฟุกุชิมา"
+
+#: jp_prefectures.py:11
+msgid "Ibaraki"
+msgstr "อิบารากิ"
+
+#: jp_prefectures.py:12
+msgid "Tochigi"
+msgstr "โตชิกิ"
+
+#: jp_prefectures.py:13
+msgid "Gunma"
+msgstr "กันมา"
+
+#: jp_prefectures.py:14
+msgid "Saitama"
+msgstr "ไซตามะ"
+
+#: jp_prefectures.py:15
+msgid "Chiba"
+msgstr "ชิบะ"
+
+#: jp_prefectures.py:16
+msgid "Tokyo"
+msgstr "โตเกียว"
+
+#: jp_prefectures.py:17
+msgid "Kanagawa"
+msgstr "คะนะงะวะ"
+
+#: jp_prefectures.py:18
+msgid "Yamanashi"
+msgstr "ยามานาชิ"
+
+#: jp_prefectures.py:19
+msgid "Nagano"
+msgstr "นากาโนะ"
+
+#: jp_prefectures.py:20
+msgid "Niigata"
+msgstr "นีงะตะ"
+
+#: jp_prefectures.py:21
+msgid "Toyama"
+msgstr "โทยามะ"
+
+#: jp_prefectures.py:22
+msgid "Ishikawa"
+msgstr "อิชิคาวะ"
+
+#: jp_prefectures.py:23
+msgid "Fukui"
+msgstr "ฟูกุอิ"
+
+#: jp_prefectures.py:24
+msgid "Gifu"
+msgstr "กิฟู"
+
+#: jp_prefectures.py:25
+msgid "Shizuoka"
+msgstr "ชิซูโอกะ"
+
+#: jp_prefectures.py:26
+msgid "Aichi"
+msgstr "อะอิชิ"
+
+#: jp_prefectures.py:27
+msgid "Mie"
+msgstr "มิเอะ"
+
+#: jp_prefectures.py:28
+msgid "Shiga"
+msgstr "ชิกะ"
+
+#: jp_prefectures.py:29
+msgid "Kyoto"
+msgstr "เกียวโต"
+
+#: jp_prefectures.py:30
+msgid "Osaka"
+msgstr "โอซากา"
+
+#: jp_prefectures.py:31
+msgid "Hyogo"
+msgstr "เฮียวโงะ"
+
+#: jp_prefectures.py:32
+msgid "Nara"
+msgstr "นาระ"
+
+#: jp_prefectures.py:33
+msgid "Wakayama"
+msgstr "วากะยามะ"
+
+#: jp_prefectures.py:34
+msgid "Tottori"
+msgstr "ทตโตะริ"
+
+#: jp_prefectures.py:35
+msgid "Shimane"
+msgstr "ชิมาเนะ"
+
+#: jp_prefectures.py:36
+msgid "Okayama"
+msgstr "โอกะยามะ"
+
+#: jp_prefectures.py:37
+msgid "Hiroshima"
+msgstr "ฮิโรชิมา"
+
+#: jp_prefectures.py:38
+msgid "Yamaguchi"
+msgstr "ยามากุชิ"
+
+#: jp_prefectures.py:39
+msgid "Tokushima"
+msgstr "โตกุชิมะ"
+
+#: jp_prefectures.py:40
+msgid "Kagawa"
+msgstr "คากะวะ"
+
+#: jp_prefectures.py:41
+msgid "Ehime"
+msgstr "อิฮิเมะ"
+
+#: jp_prefectures.py:42
+msgid "Kochi"
+msgstr "โคจิ"
+
+#: jp_prefectures.py:43
+msgid "Fukuoka"
+msgstr "ฟุกุโอกะ"
+
+#: jp_prefectures.py:44
+msgid "Saga"
+msgstr "ซากะ"
+
+#: jp_prefectures.py:45
+msgid "Nagasaki"
+msgstr "นากะซากิ"
+
+#: jp_prefectures.py:46
+msgid "Kumamoto"
+msgstr "คุมะโมโตะ"
+
+#: jp_prefectures.py:47
+msgid "Oita"
+msgstr "โออิตะ"
+
+#: jp_prefectures.py:48
+msgid "Miyazaki"
+msgstr "มิยาซากิ"
+
+#: jp_prefectures.py:49
+msgid "Kagoshima"
+msgstr "คาโกชิมา"
+
+#: jp_prefectures.py:50
+msgid "Okinawa"
+msgstr "โอคินาวะ"
