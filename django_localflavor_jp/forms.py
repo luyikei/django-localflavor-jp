@@ -4,7 +4,7 @@ JP-specific Form helpers
 
 from __future__ import absolute_import
 
-from django.contrib.localflavor.jp.jp_prefectures import JP_PREFECTURES
+from .jp_prefectures import JP_PREFECTURES
 from django.forms.fields import RegexField, Select
 from django.utils.translation import ugettext_lazy as _
 
